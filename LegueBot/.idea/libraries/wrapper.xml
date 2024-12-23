@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-abilities/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-abilities/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-client-jetty-adapter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-client-jetty-adapter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-client/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-extensions/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-extensions/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-longpolling/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-longpolling/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-meta/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-meta/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-springboot-longpolling-starter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-springboot-longpolling-starter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-springboot-webhook-starter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-springboot-webhook-starter/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-webhook/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/TelegramBots/telegrambots-webhook/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
